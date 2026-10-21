@@ -1,0 +1,25 @@
+tile_id,zone,latitude,longitude,ndvi_before,ndvi_after,ndvi_drop,bare_soil_change,burn_index_change,label
+A01,Area Utara,-2.9,103.8,0.92,0.89,0.03,0.04,0.02,Stabil
+A02,Area Utara,-2.92,103.83,0.88,0.76,0.12,0.18,0.05,Pembukaan lahan
+A03,Area Utara,-2.95,103.86,0.91,0.87,0.04,0.06,0.03,Stabil
+A04,Area Tengah,-3.0,103.89,0.85,0.6,0.25,0.31,0.08,Pembukaan lahan
+A05,Area Tengah,-3.03,103.92,0.82,0.8,0.02,0.03,0.02,Stabil
+A06,Area Tengah,-3.05,103.95,0.9,0.72,0.18,0.22,0.06,Pembukaan lahan
+A07,Area Selatan,-3.1,103.98,0.78,0.77,0.01,0.02,0.01,Stabil
+A08,Area Selatan,-3.12,104.01,0.8,0.55,0.25,0.34,0.12,Pembukaan lahan
+A09,Area Selatan,-3.15,104.04,0.87,0.83,0.04,0.05,0.02,Stabil
+A10,Area Selatan,-3.18,104.07,0.89,0.64,0.25,0.29,0.2,Pembukaan lahan
+A11,Area Barat,-2.98,103.75,0.84,0.82,0.02,0.04,0.03,Stabil
+A12,Area Barat,-3.02,103.72,0.86,0.69,0.17,0.25,0.05,Pembukaan lahan
+A13,Area Barat,-3.06,103.7,0.9,0.88,0.02,0.03,0.02,Stabil
+A14,Area Barat,-3.08,103.68,0.79,0.57,0.22,0.3,0.1,Pembukaan lahan
+A15,Area Timur,-2.94,104.1,0.93,0.91,0.02,0.03,0.01,Stabil
+A16,Area Timur,-2.98,104.13,0.81,0.62,0.19,0.28,0.09,Pembukaan lahan
+A17,Area Timur,-3.01,104.16,0.86,0.84,0.02,0.04,0.02,Stabil
+A18,Area Timur,-3.04,104.19,0.83,0.58,0.25,0.32,0.15,Pembukaan lahan
+A19,Area Utara,-2.88,103.88,0.89,0.85,0.04,0.07,0.03,Stabil
+A20,Area Tengah,-3.07,103.9,0.88,0.7,0.18,0.24,0.08,Pembukaan lahan
+A21,Area Selatan,-3.2,104.0,0.8,0.79,0.01,0.02,0.01,Stabil
+A22,Area Barat,-3.11,103.74,0.82,0.61,0.21,0.27,0.11,Pembukaan lahan
+A23,Area Timur,-3.07,104.12,0.91,0.88,0.03,0.04,0.02,Stabil
+A24,Area Tengah,-2.97,103.93,0.87,0.67,0.2,0.26,0.07,Pembukaan lahan
